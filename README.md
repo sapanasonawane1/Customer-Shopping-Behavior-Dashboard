@@ -1,2 +1,2 @@
 # Customer-Shopping-Behavior-Dashboard
-Data Analatics Project is created using python(pandas), SQL, Power BI.
+Data Analytics Project is created using python(pandas), SQL, Power BI.
