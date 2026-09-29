@@ -10,9 +10,9 @@ The goal: identify who the customers are, what drives their purchases, and how t
 
 ## 🗂️ Dataset
 
-- **Source:** *(add dataset source/link here — e.g., Kaggle)*
+- **Source:** **
 - **Format:** CSV
-- **Size:** *(rows x columns)*
+- **Size:** *(3900 x 18)*
 - **Key fields:** `customer_id`, `age_group`, `gender`, `category`, `item_purchased`, `purchase_amount`, `discount_applied`, `previous_purchases`, `subscription_status`, `shipping_type`, `review_rating`
 
 ## 🛠️ Tools & Technologies
@@ -188,5 +188,6 @@ The Power BI dashboard includes:
 
 
 ## 📬 Contact
+Sapana Sonawane | sapanapune0@gmail.com
 
 *(Your name | LinkedIn | Email | Portfolio)*
