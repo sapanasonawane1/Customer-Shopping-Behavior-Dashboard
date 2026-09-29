@@ -10,7 +10,6 @@ The goal: identify who the customers are, what drives their purchases, and how t
 
 ## 🗂️ Dataset
 
-- **Source:**https://github.com/sapanasonawane1/Customer-Shopping-Behavior-Dashboard/blob/main/customer_shopping_behavior.csv**
 - **Format:** CSV
 - **Size:** *(3900 x 18)*
 - **Key fields:** `customer_id`, `age_group`, `gender`, `category`, `item_purchased`, `purchase_amount`, `discount_applied`, `previous_purchases`, `subscription_status`, `shipping_type`, `review_rating`
