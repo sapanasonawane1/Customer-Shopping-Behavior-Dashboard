@@ -159,31 +159,33 @@ The Power BI dashboard includes:
 - Category Clothing has the highest average purchase amount.
 - Express Shipping and Free Shipping is associated with higher customer satisfaction.
 ```
+```
+
 ## ▶️ How to Run
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
    ```
-1. ** Clone the Repository **
-  
 
-3. **Set up the Python environment**
+2. **Set up the Python environment**
    ```bash
    pip install pandas numpy matplotlib seaborn sqlalchemy
    ```
 
-4. **Run the EDA & cleaning notebook**
+3. **Run the EDA & cleaning notebook**
    ```bash
    jupyter notebook notebooks/eda_and_cleaning.ipynb
    ```
 
-5. **Run SQL queries**
-   - Load `cleaned_data.csv` into your MySQL Server instance
+4. **Run SQL queries**
+   - Load `cleaned_data.csv` into your PostgreSQL/MySQL/SQL Server instance
    - Execute the queries in `sql/analysis_queries.sql`
 
-6. **View the dashboard**
+5. **View the dashboard**
    - Open `dashboard/Customer_Shopping_Behavior.pbix` in Power BI Desktop
-
 
 ## 📬 Contact
 Sapana Sonawane | sapanapune0@gmail.com
 
-*(Your name | LinkedIn | Email | Portfolio)*
